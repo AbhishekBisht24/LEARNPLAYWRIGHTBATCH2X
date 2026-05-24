@@ -1,4 +1,4 @@
-//FizzBuzz Test:-
+//Triangle Classifier::-
 
 let a = 7;
 let b = 14;
