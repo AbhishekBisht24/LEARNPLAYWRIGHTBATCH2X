@@ -114,6 +114,65 @@ Location: `chapter_09_UserInput/`
 - **69_Node_readline.js** - Using Node.js readline module
 - **70_prompt_sync.js** - Using prompt_sync package
 
+### Chapter 10: Loops
+Location: `chapter_10_Loops/`
+
+- **71_For_loop.js** - Introduction to for loops
+- **72_For_loop.js** - For loop variations
+- **73_For_Loop2.js** - Advanced for loop concepts
+- **74_IQ.js** - Interview questions on for loops
+- **75_For_OF_IN_EACH.js** - For...of, for...in, and forEach loops
+- **76_While.js** - While loop fundamentals
+- **77_Do_While.js** - Do...while loop structure
+- **78_Do_While.js** - Do...while advanced examples
+- **79_IQ.js** - Interview questions on while loops
+- **80_IQ.js** - More interview questions
+- **81_IQ.js** - Additional loop scenarios
+- **82_IQ.js** - Complex loop problems
+
+### Chapter 11: Arrays
+Location: `chapter_11_Arrays/`
+
+- **83_Arrays.js** - Introduction to arrays
+- **84_Arrays.js** - Array fundamentals
+- **85_Access_Array.js** - Accessing array elements
+- **86_Arrays_Adding_Remove.js** - Adding and removing elements
+- **87_Adding_Remove2.js** - Advanced adding/removing methods
+- **88_REAL_Example.js** - Real-world array examples
+- **89_Searching.js** - Array search methods
+- **90_Iterate.js** - Iterating through arrays
+- **91_Transform_Array.js** - Array transformation methods
+- **92_Arrays.js** - Array utilities and helpers
+- **93_Array_Slicing.js** - Slicing and splicing arrays
+- **94_Concat_array.js** - Concatenating arrays
+- **95_Array_Checking.js** - Array checking and validation methods
+
+### Chapter 12: Functions
+Location: `chapter_12_Funtions/`
+
+- **96_Functions.js** - Introduction to functions
+- **97_Type1_Fn_Basic_Functions.js** - Basic function declarations
+- **98_Type2_Fn_With_Param_No_Return.js** - Functions with parameters, no return
+- **99_Type3_Fn_without_Param_Return_Type.js** - Functions without parameters, with return
+- **100_Type4_Fn_With_Param_With_Return.js** - Functions with parameters and return values
+- **101_Template_literal.js** - Template literals in functions
+- **102_Fn_Expression.js** - Function expressions
+- **103_Arrow_Fn.js** - Arrow functions introduction
+- **104_Arrow_Fn_REAL.js** - Real-world arrow function examples
+- **105_IIFE.js** - Immediately Invoked Function Expressions
+- **106_Default_Param_Fn.js** - Default function parameters
+- **107_IQ.js** - Interview questions on functions
+- **108_Rest_Param_Fn.js** - Rest parameters
+- **109_IQ.js** - More interview questions
+- **110_Spead_IQ.js** - Spread operator and related questions
+- **111_Scope._Fn.js** - Function scope concepts
+- **112_IQ.js** - Scope-related interview questions
+- **113_Closure.js** - Closure fundamentals
+- **114_Closure.js** - Advanced closure concepts
+- **115_API_REAL_Closure.js** - Real API examples with closures
+- **116_Higher_Order_Fn.js** - Higher-order functions
+- **117_Pure_Fn.js** - Pure functions and functional programming
+
 ## 🎯 Learning Objectives
 
 This repository covers:
@@ -124,6 +183,9 @@ This repository covers:
 - Operators (arithmetic, comparison, logical, etc.) (Chapter 6)
 - Conditional statements and flow control (Chapters 7-8)
 - User input handling (Chapter 9)
+- Loop structures (for, while, do...while, for...of, for...in) (Chapter 10)
+- Arrays and array methods (Chapter 11)
+- Functions (declarations, expressions, arrow functions, closures, higher-order functions) (Chapter 12)
 - Interview preparation with IQ questions throughout
 
 ## 🚀 Getting Started
@@ -149,7 +211,10 @@ cd LEARNPLAYWRIGHTBATCH2X
    - Learn `chapter_06_Operator/`
    - Master `chapter_07_If_else/`
    - Explore `chapter_08_Switch_Statement/`
-   - End with `chapter_09_UserInput/`
+   - Study `chapter_09_UserInput/`
+   - Learn loops in `chapter_10_Loops/`
+   - Master arrays in `chapter_11_Arrays/`
+   - Dive deep into functions in `chapter_12_Funtions/`
 
 ## 💡 Tips
 
@@ -177,8 +242,8 @@ cd LEARNPLAYWRIGHTBATCH2X
 
 ## 📊 File Statistics
 
-- **Total Chapters:** 9
-- **Total Files:** 70+ JavaScript files
+- **Total Chapters:** 12
+- **Total Files:** 117+ JavaScript files
 - **Total Support Files:** 2 keyboard shortcut guides
 
 ## 👨‍💻 Author
