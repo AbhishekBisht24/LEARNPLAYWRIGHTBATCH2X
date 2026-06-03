@@ -173,6 +173,17 @@ Location: `chapter_12_Funtions/`
 - **116_Higher_Order_Fn.js** - Higher-order functions
 - **117_Pure_Fn.js** - Pure functions and functional programming
 
+### Chapter 13: Strings
+Location: `chapter_13_Strings/`
+
+- **118_Strings.js** - Introduction to strings and string creation
+- **119_String_Properties.js** - String properties and basic methods
+- **120_Search_Check_Str.js** - Searching and checking strings
+- **121_Substring.js** - Extracting substrings
+- **122_Transform_Str.js** - Transforming strings
+- **123_SC.js** - String manipulation practice and scenarios
+- **javascript_stringcheatsheet.md** - Quick reference for all string methods
+
 ## 🎯 Learning Objectives
 
 This repository covers:
@@ -186,6 +197,7 @@ This repository covers:
 - Loop structures (for, while, do...while, for...of, for...in) (Chapter 10)
 - Arrays and array methods (Chapter 11)
 - Functions (declarations, expressions, arrow functions, closures, higher-order functions) (Chapter 12)
+- Strings and string methods (Chapter 13)
 - Interview preparation with IQ questions throughout
 
 ## 🚀 Getting Started
@@ -215,6 +227,7 @@ cd LEARNPLAYWRIGHTBATCH2X
    - Learn loops in `chapter_10_Loops/`
    - Master arrays in `chapter_11_Arrays/`
    - Dive deep into functions in `chapter_12_Funtions/`
+   - Master strings in `chapter_13_Strings/`
 
 ## 💡 Tips
 
@@ -242,9 +255,9 @@ cd LEARNPLAYWRIGHTBATCH2X
 
 ## 📊 File Statistics
 
-- **Total Chapters:** 12
-- **Total Files:** 117+ JavaScript files
-- **Total Support Files:** 2 keyboard shortcut guides
+- **Total Chapters:** 13
+- **Total Files:** 124+ JavaScript files
+- **Total Support Files:** 3 keyboard shortcut guides + 1 string cheatsheet
 
 ## 👨‍💻 Author
 
