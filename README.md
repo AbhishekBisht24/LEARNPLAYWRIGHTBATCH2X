@@ -1,6 +1,6 @@
 # Learn JavaScript - Batch 2X
 
-A comprehensive learning repository for JavaScript fundamentals and concepts, covering 9 chapters with progressive complexity.
+A comprehensive learning repository for JavaScript fundamentals and concepts, covering 14 chapters with progressive complexity.
 
 ## 📚 Repository Structure
 
@@ -184,6 +184,24 @@ Location: `chapter_13_Strings/`
 - **123_SC.js** - String manipulation practice and scenarios
 - **javascript_stringcheatsheet.md** - Quick reference for all string methods
 
+### Chapter 14: Objects
+Location: `chapter_14_Objects/`
+
+- **124_Objects.js** - Introduction to objects and basic object structure
+- **125_Objects2.js** - Object creation and initialization
+- **126_Objects_Creation.js** - Various object creation patterns
+- **127_Objects_REAL.js** - Real-world object examples
+- **128_Primitive_Ref.js** - Understanding primitive vs reference types
+- **129_Ob_Examples.js** - Object properties and methods
+- **130_IQ.js** - Interview questions on objects
+- **131_Object_Fn.js** - Objects with functions/methods
+- **132_Obj_Decon.js** - Object destructuring
+- **133_Spead.js** - Spread operator with objects
+- **134_Objects_GET_SET_Methods.js** - Getter and setter methods
+- **135_IQ.js** - Advanced interview questions
+- **136_Obj_REAL.js** - Real-world object applications
+- **137_Let_const_obj.js** - Variable declarations with objects
+
 ## 🎯 Learning Objectives
 
 This repository covers:
@@ -198,6 +216,7 @@ This repository covers:
 - Arrays and array methods (Chapter 11)
 - Functions (declarations, expressions, arrow functions, closures, higher-order functions) (Chapter 12)
 - Strings and string methods (Chapter 13)
+- Objects and object-oriented programming basics (Chapter 14)
 - Interview preparation with IQ questions throughout
 
 ## 🚀 Getting Started
@@ -228,6 +247,7 @@ cd LEARNPLAYWRIGHTBATCH2X
    - Master arrays in `chapter_11_Arrays/`
    - Dive deep into functions in `chapter_12_Funtions/`
    - Master strings in `chapter_13_Strings/`
+   - Explore objects in `chapter_14_Objects/`
 
 ## 💡 Tips
 
@@ -255,8 +275,8 @@ cd LEARNPLAYWRIGHTBATCH2X
 
 ## 📊 File Statistics
 
-- **Total Chapters:** 13
-- **Total Files:** 124+ JavaScript files
+- **Total Chapters:** 14
+- **Total Files:** 138+ JavaScript files
 - **Total Support Files:** 3 keyboard shortcut guides + 1 string cheatsheet
 
 ## 👨‍💻 Author
