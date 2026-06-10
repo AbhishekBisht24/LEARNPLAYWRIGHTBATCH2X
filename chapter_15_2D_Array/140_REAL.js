@@ -22,7 +22,7 @@ for (let row of testMatrix) {
     console.log();
 }
 
-// forEach
+// forEach - but not use in automation.
 testMatrix.forEach(row => {
     row.forEach(
         cell => process.stdout.write(cell + " ")

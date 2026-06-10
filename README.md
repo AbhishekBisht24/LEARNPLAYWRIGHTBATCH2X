@@ -211,6 +211,21 @@ Location: `chapter_15_2D_Array/`
 - **141_2d_Array_Fn.js** - Working with functions and 2D arrays
 - **142_IQ_Right_Pattern_Py.js** - Interview questions and pattern problems
 
+### Chapter 16: Callbacks
+Location: `chapter_16_Callback/`
+
+- **143_Callback.js** - Introduction to callbacks and basic concept
+- **144_CB.js** - Basic callback patterns and examples
+- **145_CB_Fn.js** - Callbacks with functions
+- **146_PW_CB.js** - Playwright callbacks
+- **147_JS_CB.js** - JavaScript callbacks
+- **148_Sync_CB.js** - Synchronous callbacks
+- **149_Async_CB.js** - Asynchronous callbacks
+- **150_CB_Hell.js** - Callback hell (Pyramid of Doom)
+- **151_CB_Hell_20_Steps.js** - Complex callback hell scenario
+- **152_CB_Parameter.js** - Callback parameters and arguments
+- **153_CB_Return.js** - Callback return values
+
 ## 🎯 Learning Objectives
 
 This repository covers:
@@ -227,6 +242,7 @@ This repository covers:
 - Strings and string methods (Chapter 13)
 - Objects and object-oriented programming basics (Chapter 14)
 - 2D Arrays and matrix operations (Chapter 15)
+- Callbacks and asynchronous programming basics (Chapter 16)
 - Interview preparation with IQ questions throughout
 
 ## 🚀 Getting Started
@@ -259,6 +275,7 @@ cd LEARNPLAYWRIGHTBATCH2X
    - Master strings in `chapter_13_Strings/`
    - Explore objects in `chapter_14_Objects/`
    - Master 2D arrays in `chapter_15_2D_Array/`
+   - Learn callbacks in `chapter_16_Callback/`
 
 ## 💡 Tips
 
@@ -286,9 +303,9 @@ cd LEARNPLAYWRIGHTBATCH2X
 
 ## 📊 File Statistics
 
-- **Total Chapters:** 15
-- **Total Files:** 143 JavaScript files
-- **Total Support Files:** 3 keyboard shortcut guides + 2 chapter READMEs + 1 string cheatsheet
+- **Total Chapters:** 16
+- **Total Files:** 154 JavaScript files
+- **Total Support Files:** 3 keyboard shortcut guides + 3 chapter READMEs + 1 string cheatsheet
 
 ## 👨‍💻 Author
 
