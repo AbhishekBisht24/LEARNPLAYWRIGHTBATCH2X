@@ -202,6 +202,15 @@ Location: `chapter_14_Objects/`
 - **136_Obj_REAL.js** - Real-world object applications
 - **137_Let_const_obj.js** - Variable declarations with objects
 
+### Chapter 15: 2D Arrays
+Location: `chapter_15_2D_Array/`
+
+- **138_2D_Array.js** - Introduction to 2D arrays and basic structure
+- **139_2d.js** - 2D array initialization and access patterns
+- **140_REAL.js** - Real-world 2D array examples
+- **141_2d_Array_Fn.js** - Working with functions and 2D arrays
+- **142_IQ_Right_Pattern_Py.js** - Interview questions and pattern problems
+
 ## 🎯 Learning Objectives
 
 This repository covers:
@@ -217,6 +226,7 @@ This repository covers:
 - Functions (declarations, expressions, arrow functions, closures, higher-order functions) (Chapter 12)
 - Strings and string methods (Chapter 13)
 - Objects and object-oriented programming basics (Chapter 14)
+- 2D Arrays and matrix operations (Chapter 15)
 - Interview preparation with IQ questions throughout
 
 ## 🚀 Getting Started
@@ -248,6 +258,7 @@ cd LEARNPLAYWRIGHTBATCH2X
    - Dive deep into functions in `chapter_12_Funtions/`
    - Master strings in `chapter_13_Strings/`
    - Explore objects in `chapter_14_Objects/`
+   - Master 2D arrays in `chapter_15_2D_Array/`
 
 ## 💡 Tips
 
@@ -275,9 +286,9 @@ cd LEARNPLAYWRIGHTBATCH2X
 
 ## 📊 File Statistics
 
-- **Total Chapters:** 14
-- **Total Files:** 138+ JavaScript files
-- **Total Support Files:** 3 keyboard shortcut guides + 1 string cheatsheet
+- **Total Chapters:** 15
+- **Total Files:** 143 JavaScript files
+- **Total Support Files:** 3 keyboard shortcut guides + 2 chapter READMEs + 1 string cheatsheet
 
 ## 👨‍💻 Author
 
