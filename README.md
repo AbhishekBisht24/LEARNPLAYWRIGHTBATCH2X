@@ -226,6 +226,17 @@ Location: `chapter_16_Callback/`
 - **152_CB_Parameter.js** - Callback parameters and arguments
 - **153_CB_Return.js** - Callback return values
 
+### Chapter 17: Promises
+Location: `chapter_17_Promise/`
+
+- **154_Promise.js** - Introduction to promises and basic concept
+- **155_Promise_REAL_API.js** - Promises with real API calls
+- **156_Promise_REAL_API_PART2.js** - Advanced promise API scenarios
+- **157_Finally.js** - Finally block in promises
+- **158_Call_Py_Problem.js** - Converting callbacks to promises
+- **159_Promise_ALL.js** - Promise.all and combining multiple promises
+- **160_Promise_IQ.js** - Interview questions and advanced scenarios
+
 ## 🎯 Learning Objectives
 
 This repository covers:
@@ -243,6 +254,7 @@ This repository covers:
 - Objects and object-oriented programming basics (Chapter 14)
 - 2D Arrays and matrix operations (Chapter 15)
 - Callbacks and asynchronous programming basics (Chapter 16)
+- Promises and advanced asynchronous patterns (Chapter 17)
 - Interview preparation with IQ questions throughout
 
 ## 🚀 Getting Started
@@ -276,6 +288,7 @@ cd LEARNPLAYWRIGHTBATCH2X
    - Explore objects in `chapter_14_Objects/`
    - Master 2D arrays in `chapter_15_2D_Array/`
    - Learn callbacks in `chapter_16_Callback/`
+   - Master promises in `chapter_17_Promise/`
 
 ## 💡 Tips
 
@@ -303,9 +316,9 @@ cd LEARNPLAYWRIGHTBATCH2X
 
 ## 📊 File Statistics
 
-- **Total Chapters:** 16
-- **Total Files:** 154 JavaScript files
-- **Total Support Files:** 3 keyboard shortcut guides + 3 chapter READMEs + 1 string cheatsheet
+- **Total Chapters:** 17
+- **Total Files:** 160 JavaScript files
+- **Total Support Files:** 3 keyboard shortcut guides + 4 chapter READMEs + 1 string cheatsheet
 
 ## 👨‍💻 Author
 
