@@ -237,6 +237,18 @@ Location: `chapter_17_Promise/`
 - **159_Promise_ALL.js** - Promise.all and combining multiple promises
 - **160_Promise_IQ.js** - Interview questions and advanced scenarios
 
+### Chapter 18: Async/Await
+Location: `chapter_18_Async_Await/`
+
+- **161_Async.js** - Introduction to async functions and basic concept
+- **162_Aysnc_P2.js** - Async functions part 2 - deeper concepts
+- **163_PyODom.js** - Promise and Async/Await comparison
+- **164_Async_Ex.js** - Exception handling with try-catch in async functions
+- **165_AA_Seq.js** - Sequential execution with async/await
+- **166_AA_Parallel.js** - Parallel execution with async/await
+- **167_ACLogin.js** - Async/Await with real-world login scenario
+- **168_IQ.js** - Interview questions and advanced async/await scenarios
+
 ## 🎯 Learning Objectives
 
 This repository covers:
@@ -255,6 +267,7 @@ This repository covers:
 - 2D Arrays and matrix operations (Chapter 15)
 - Callbacks and asynchronous programming basics (Chapter 16)
 - Promises and advanced asynchronous patterns (Chapter 17)
+- Async/Await and modern asynchronous programming (Chapter 18)
 - Interview preparation with IQ questions throughout
 
 ## 🚀 Getting Started
@@ -289,6 +302,7 @@ cd LEARNPLAYWRIGHTBATCH2X
    - Master 2D arrays in `chapter_15_2D_Array/`
    - Learn callbacks in `chapter_16_Callback/`
    - Master promises in `chapter_17_Promise/`
+   - Master async/await in `chapter_18_Async_Await/`
 
 ## 💡 Tips
 
