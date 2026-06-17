@@ -1,6 +1,6 @@
 # Learn JavaScript - Batch 2X
 
-A comprehensive learning repository for JavaScript fundamentals and concepts, covering 14 chapters with progressive complexity.
+A comprehensive learning repository for JavaScript fundamentals and concepts, covering 19 chapters with progressive complexity, culminating in end-to-end testing with Playwright.
 
 ## 📚 Repository Structure
 
@@ -249,6 +249,14 @@ Location: `chapter_18_Async_Await/`
 - **167_ACLogin.js** - Async/Await with real-world login scenario
 - **168_IQ.js** - Interview questions and advanced async/await scenarios
 
+### Chapter 19: Playwright Basics
+Location: `chapter_19_Playwright_Basics/`
+
+- **example.spec.ts** - Basic Playwright test example
+- **codegen-tta-cart_validLogin.spec.ts** - Valid login test for The Testing Academy Cart Application
+- **codegen-tta-cart_invalidLogin.spec.ts** - Invalid login test for The Testing Academy Cart Application
+- **playwright.config.ts** - Playwright configuration for browsers and test execution settings
+
 ## 🎯 Learning Objectives
 
 This repository covers:
@@ -268,6 +276,7 @@ This repository covers:
 - Callbacks and asynchronous programming basics (Chapter 16)
 - Promises and advanced asynchronous patterns (Chapter 17)
 - Async/Await and modern asynchronous programming (Chapter 18)
+- End-to-end testing with Playwright and automated test creation (Chapter 19)
 - Interview preparation with IQ questions throughout
 
 ## 🚀 Getting Started
@@ -303,6 +312,7 @@ cd LEARNPLAYWRIGHTBATCH2X
    - Learn callbacks in `chapter_16_Callback/`
    - Master promises in `chapter_17_Promise/`
    - Master async/await in `chapter_18_Async_Await/`
+   - Learn end-to-end testing with Playwright in `chapter_19_Playwright_Basics/`
 
 ## 💡 Tips
 
@@ -330,9 +340,9 @@ cd LEARNPLAYWRIGHTBATCH2X
 
 ## 📊 File Statistics
 
-- **Total Chapters:** 17
-- **Total Files:** 160 JavaScript files
-- **Total Support Files:** 3 keyboard shortcut guides + 4 chapter READMEs + 1 string cheatsheet
+- **Total Chapters:** 19
+- **Total Files:** 168+ JavaScript and TypeScript files
+- **Total Support Files:** 3 keyboard shortcut guides + 5 chapter READMEs + 1 string cheatsheet + Playwright configuration and test files
 
 ## 👨‍💻 Author
 
