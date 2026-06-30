@@ -268,6 +268,18 @@ Location: `chapter_20_Export_Import/`
 - **01_EXPORT_IMPORT/171_Logger.js** - Demonstrates importing a default export
 - **01_EXPORT_IMPORT/ExplainDefault.md** - Explains named vs default exports
 
+### Chapter 21: Classes and Objects
+Location: `chapter_21_Classes_and_Objects/`
+
+- **172_Class_Object1.js** - Basic class structure with attributes and methods
+- **173_Class_Object2.js** - Constructor-based object creation example
+- **174_Car.js** - Class example for a car object
+- **175_REAL_Browser.js** - Real-world class example for test cases
+- **176_IQ.js** - Interview-style practice with browser objects
+- **177_Private_Public.js** - Public and private field example
+- **178_Statis1.js** - Static properties and methods example
+- **179_Statis2.js** - Another static members example
+
 ## 🎯 Learning Objectives
 
 This repository covers:
@@ -289,6 +301,7 @@ This repository covers:
 - Async/Await and modern asynchronous programming (Chapter 18)
 - End-to-end testing with Playwright and automated test creation (Chapter 19)
 - Export and import modules in JavaScript (Chapter 20)
+- Classes and objects in JavaScript (Chapter 21)
 - Interview preparation with IQ questions throughout
 
 ## 🚀 Getting Started
