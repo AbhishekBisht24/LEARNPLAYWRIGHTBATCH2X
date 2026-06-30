@@ -257,6 +257,17 @@ Location: `chapter_19_Playwright_Basics/`
 - **codegen-tta-cart_invalidLogin.spec.ts** - Invalid login test for The Testing Academy Cart Application
 - **playwright.config.ts** - Playwright configuration for browsers and test execution settings
 
+### Chapter 20: Export / Import
+Location: `chapter_20_Export_Import/`
+
+- **logger.js** - Default and named exports in a logger module
+- **testutils.js** - Named exports for shared test utilities
+- **utils.js** - Named exports for shared application utilities
+- **01_EXPORT_IMPORT/169_EXPORT_IMPORT.js** - Demonstrates named imports
+- **01_EXPORT_IMPORT/170_Utils.js** - Demonstrates aliasing imports from multiple modules
+- **01_EXPORT_IMPORT/171_Logger.js** - Demonstrates importing a default export
+- **01_EXPORT_IMPORT/ExplainDefault.md** - Explains named vs default exports
+
 ## 🎯 Learning Objectives
 
 This repository covers:
@@ -277,6 +288,7 @@ This repository covers:
 - Promises and advanced asynchronous patterns (Chapter 17)
 - Async/Await and modern asynchronous programming (Chapter 18)
 - End-to-end testing with Playwright and automated test creation (Chapter 19)
+- Export and import modules in JavaScript (Chapter 20)
 - Interview preparation with IQ questions throughout
 
 ## 🚀 Getting Started
