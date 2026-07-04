@@ -280,6 +280,32 @@ Location: `chapter_21_Classes_and_Objects/`
 - **178_Statis1.js** - Static properties and methods example
 - **179_Statis2.js** - Another static members example
 
+### Chapter 22: Encapsulation
+Location: `chapter_22_Encapsulation/`
+
+- **180_Ecap.js** - Private field and controlled access example
+- **181_REAL_EXAMPLE.js** - Practical encapsulation example
+- **182_Ecap_Car.js** - Encapsulation example with a car object
+- **183_ECap_Bank.js** - Bank account example with protected internal state
+
+### Chapter 23: Inheritance
+Location: `chapter_23_Inheritance/`
+
+- **184_Single_Inheritance.js** - Basic single inheritance example
+- **185_SI_Example.js** - Simple inheritance example
+- **186_Single_Inheritance_Con.js** - Constructor-based inheritance example
+- **187_IQ.js** - Inheritance interview questions
+- **188_IQ2.js** - More inheritance practice questions
+- **189_REAL_PageObject_Model.js** - Real-world inheritance example
+- **190_Multiple_Inheritance.js** - Multiple inheritance concept example
+- **191_Multi_Level_Inheritance.js** - Multi-level inheritance example
+- **192_Hierarchial_Inheritance.js** - Hierarchical inheritance example
+
+### Chapter 24: Polymorphism
+Location: `chapter_24_Polymorphism/`
+
+- **192_Method_Overriding.js** - Demonstrates method overriding and polymorphic behavior
+
 ## 🎯 Learning Objectives
 
 This repository covers:
@@ -302,6 +328,9 @@ This repository covers:
 - End-to-end testing with Playwright and automated test creation (Chapter 19)
 - Export and import modules in JavaScript (Chapter 20)
 - Classes and objects in JavaScript (Chapter 21)
+- Encapsulation and data protection in JavaScript (Chapter 22)
+- Inheritance and class reuse in JavaScript (Chapter 23)
+- Polymorphism and method overriding in JavaScript (Chapter 24)
 - Interview preparation with IQ questions throughout
 
 ## 🚀 Getting Started
