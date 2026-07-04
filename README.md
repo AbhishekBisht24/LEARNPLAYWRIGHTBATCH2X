@@ -306,6 +306,35 @@ Location: `chapter_24_Polymorphism/`
 
 - **192_Method_Overriding.js** - Demonstrates method overriding and polymorphic behavior
 
+### Chapter 25: OOP Interview Questions
+Location: `chapter_25_OOP_Interview_Questions/`
+
+- **EX1.js** - OOP interview practice question
+- **EX2.js** - Additional OOP interview example
+- **EX3.js** - More practice for OOP concepts
+- **EX4.js** - Final OOP interview exercise
+
+### Chapter 26: TypeScript
+Location: `chapter_26_Typescript/`
+
+- **194_TS.js** - Basic TypeScript example
+- **195_TS_HelloWorld.js** - JavaScript hello world example
+- **196_TS_HelloWorld.ts** - TypeScript hello world example
+- **197_TS_Part1.ts** - TypeScript basics part 1
+- **198_TS_Part2.ts** - TypeScript basics part 2
+- **199_TS_Part2.ts** - Another TypeScript practice file
+- **200_Part3.ts** - Intermediate TypeScript example
+- **201_IQ.ts** - TypeScript interview questions
+- **202_IQ.ts** - Additional TypeScript practice questions
+
+### Chapter 27: TypeScript Interface
+Location: `chapter_27_TypeScript_Interface/`
+
+- **203_IF.ts** - Basic interface example
+- **204_IF_Part2.ts** - Intermediate interface example
+- **205_IF_READONLY.ts** - Readonly property example
+- **206_IF_READOnly.ts** - Another interface example
+
 ## 🎯 Learning Objectives
 
 This repository covers:
@@ -331,6 +360,9 @@ This repository covers:
 - Encapsulation and data protection in JavaScript (Chapter 22)
 - Inheritance and class reuse in JavaScript (Chapter 23)
 - Polymorphism and method overriding in JavaScript (Chapter 24)
+- OOP interview practice (Chapter 25)
+- TypeScript fundamentals (Chapter 26)
+- TypeScript interfaces and typed object shapes (Chapter 27)
 - Interview preparation with IQ questions throughout
 
 ## 🚀 Getting Started
