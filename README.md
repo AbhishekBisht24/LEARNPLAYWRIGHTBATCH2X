@@ -1,6 +1,6 @@
 # Learn JavaScript - Batch 2X
 
-A comprehensive learning repository for JavaScript fundamentals and concepts, covering 19 chapters with progressive complexity, culminating in end-to-end testing with Playwright.
+A comprehensive learning repository for JavaScript fundamentals and concepts, covering 30 chapters with progressive complexity, culminating in end-to-end testing with Playwright and modern TypeScript practices.
 
 ## 📚 Repository Structure
 
@@ -334,6 +334,31 @@ Location: `chapter_27_TypeScript_Interface/`
 - **204_IF_Part2.ts** - Intermediate interface example
 - **205_IF_READONLY.ts** - Readonly property example
 - **206_IF_READOnly.ts** - Another interface example
+- **207_Interface.ts** - Interface usage with practical examples
+- **212_Class_Interface.ts** - Class implementing an interface
+
+### Chapter 28: Enums
+Location: `chapter_28_ENUM/`
+
+- **213_ENUM.ts** - Basic enum example
+- **214_Enum_Fn.ts** - Enum values with string-based examples
+- **215_ENUM.ts** - Browser enum example
+- **216_API_.ts** - Enum usage in API method examples
+
+### Chapter 29: TypeScript Generics
+Location: `chapter_29_Typescript_Generic/`
+
+- **217_Generic.ts** - Generic functions with type parameters
+- **218_Generic_Class.ts** - Generic class example
+- **219_Generic_API_RESPONSE.ts** - Generic response wrapper example
+
+### Chapter 30: Access Modifiers and Abstraction
+Location: `chapter_30_PRIVATE_PUBLIC_PROTECTED/`
+
+- **220_PPP.ts** - Public, private, and protected members
+- **221_PageObjectModel.ts** - Protected members in inheritance
+- **222_READONLY.ts** - Readonly properties in classes
+- **223_Abstract_Class.ts** - Abstract class example
 
 ## 🎯 Learning Objectives
 
@@ -363,6 +388,9 @@ This repository covers:
 - OOP interview practice (Chapter 25)
 - TypeScript fundamentals (Chapter 26)
 - TypeScript interfaces and typed object shapes (Chapter 27)
+- Enums and typed constants (Chapter 28)
+- Generic functions and reusable TypeScript classes (Chapter 29)
+- Access modifiers, readonly properties, and abstract classes (Chapter 30)
 - Interview preparation with IQ questions throughout
 
 ## 🚀 Getting Started
@@ -426,9 +454,9 @@ cd LEARNPLAYWRIGHTBATCH2X
 
 ## 📊 File Statistics
 
-- **Total Chapters:** 19
-- **Total Files:** 168+ JavaScript and TypeScript files
-- **Total Support Files:** 3 keyboard shortcut guides + 5 chapter READMEs + 1 string cheatsheet + Playwright configuration and test files
+- **Total Chapters:** 30
+- **Total Files:** 180+ JavaScript and TypeScript files
+- **Total Support Files:** 3 keyboard shortcut guides + 8+ chapter READMEs + 1 string cheatsheet + Playwright configuration and test files
 
 ## 👨‍💻 Author
 
